@@ -1,6 +1,3 @@
-#EXTM3U
-#EXTINF:-1 CUID="1000" tvg-id="news.channel.1" tvg-name="News Channel 1" tvg-logo="http://example.com/logo1.jpg" group-title="UK: News",News Channel 1 HD
 http://root:5okt2012.@192.168.1.3:8083/web/stream.m3u?ref=1%3A0%3A19%3A2B5C%3A41B%3AA401%3AFFFF0000%3A0%3A0%3A0%3A&name=Das+Erste+HD&device=etc
-
-#EXTINF:-1 CUID="1001" tvg-id="news.channel.2" tvg-name="News Channel 2" tvg-logo="http://example.com/logo2.jpg" group-title="UK: News",News Channel 2 SD
 http://root:5okt2012.@192.168.1.3:8083/web/stream.m3u?ref=1%3A0%3A19%3A71B5%3A191%3A270F%3AFFFF0000%3A0%3A0%3A0%3A&name=ServusTV+HD&device=etc
+http://root:5okt2012.@192.168.1.3:8001/1:0:19:2B5C:41B:A401:FFFF0000:0:0:0:
