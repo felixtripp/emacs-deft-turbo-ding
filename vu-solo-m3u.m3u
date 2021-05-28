@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 CUID="1000" tvg-id="news.channel.1" tvg-name="News Channel 1" tvg-logo="http://example.com/logo1.jpg" group-title="UK: News",News Channel 1 HD
+http://example.com/stream1.ts
+
+#EXTINF:-1 CUID="1001" tvg-id="news.channel.2" tvg-name="News Channel 2" tvg-logo="http://example.com/logo2.jpg" group-title="UK: News",News Channel 2 SD
+http://example.com/stream2.ts
+
+#EXTINF:-1 CUID="1002" tvg-id="news.channel.3" tvg-name="News Channel 3" tvg-logo="http://example.com/logo3.jpg" group-title="US: News",News Channel 3 HD
+http://example.com/stream3.ts
+
+#EXTINF:-1 CUID="1003" tvg-id="sports.channel.1" tvg-name="Sports Channel 1" tvg-logo="http://example.com/logo4.jpg" group-title="UK: Sports",Sports Channel 1 HD
+http://example.com/stream4.ts
